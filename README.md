@@ -35,7 +35,7 @@
 
 ![image](https://github.com/user-attachments/assets/a6a8d46b-866e-432a-8183-abdcb679ae5d)
 
-Файл `closest_dealerships` находится в репозитории.
+Файл `closest_dealerships.csv` находится в репозитории.
 
 8. Удалим все временные таблицы:
 
